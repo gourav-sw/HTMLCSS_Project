@@ -29,6 +29,12 @@ nav {
   text-decoration: none;
 }
 
+#ourstorybody {
+  background-size: cover;
+  height: auto;
+  color: white;
+}
+
 #ourstory {
   padding: 30px;
   display: flex;
